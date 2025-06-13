@@ -18,4 +18,4 @@ With this script, the manual effort of formatting logs is drastically reduced â€
 3. Open a terminal and navigate to the script's directory.
 4. Run the script using Node.js:
    ```bash
-   node lmsValidatorlogsToCsv.js
+   npm run start

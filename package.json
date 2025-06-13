@@ -1,0 +1,11 @@
+{
+  "name": "lms-validator-log2csv",
+  "version": "1.0.0",
+  "main": "lmsValidatorlogsToCSV.js",
+  "scripts": {
+    "start": "node lmsValidatorlogsToCSV.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

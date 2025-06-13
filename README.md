@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script (`logstovaliadator.js`) converts log data from a text file (`logs.txt`) into a structured CSV file (`output.csv`). It extracts key fields such as message type, validation type, and message for easier analysis.
+This script (`lmsValidatorlogsToCSV.js`) converts log data from a text file (`logs.txt`) into a structured CSV file (`output.csv`). It extracts key fields such as message type, validation type, and message for easier analysis.
 
 With this script, the manual effort of formatting logs is drastically reduced — within seconds, you’ll have a neatly formatted CSV file ready for analysis.
 
